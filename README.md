@@ -6,12 +6,11 @@ The final assignement for the "Basics of programming" course.
 It consists of avoiding other cars and collecting ghosts. 
 Instruction also included in game menu.
 
-Player can choose to move using either arrow keys or W D keys, moreover can adjust difficulty level.
+Player can choose to move using either arrow keys or A D keys, moreover can adjust difficulty level.
 The game features scoreboard. 
 
 ## How to run the game
-Make sure you fulfill requirements 
-<!-- [requirements](https://github.com/3dytalabedzka/ghostbusters_game/blob/main/...) --->
+Make sure you fulfill [requirements](https://github.com/3dytalabedzka/ghostbusters_game/blob/main/requirements.txt)
 and simply run in console
 `python start.py` and game menu should pop up.
 
